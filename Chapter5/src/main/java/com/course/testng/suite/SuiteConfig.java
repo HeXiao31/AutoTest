@@ -7,11 +7,11 @@ public class SuiteConfig {
 
     @BeforeSuite
     public void beforeSuite() {
-        System.out.println("before suite运行啦");
+        System.out.println("before suite运行啦!");
     }
 
     @AfterSuite
     public void afterSuite() {
-        System.out.println("after suite 运行啦");
+        System.out.println("after suite 运行啦!");
     }
 }
