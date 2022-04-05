@@ -1,6 +1,0 @@
-aaaasssss
-这是分支一修改的内容
-这是master分支的修改的内容 
-f 
-我是branchtest分支修改的内容
-
